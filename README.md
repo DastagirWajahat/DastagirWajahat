@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dastagir Wajahat Ali Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I’m a Final Year Computer Science Engineering student at Government Engineering College, Ramanagara, affiliated with Visvesvaraya Technological University (VTU). Currently, I’m honing my skills as a Web Development Intern at Varcons Technologies Pvt Ltd. I have a passion for coding, problem-solving, and building efficient web applications. I love exploring new technologies and working on innovative projects.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dastagirwajahat" alt="dastagirwajahat" /></a> </p>
 
 - 🌱 I’m currently learning **Advanced JavaScript, React.js & Node js**
 
-- 👨‍💻 All of my projects are available at [ppp](ppp)
+- 👨‍💻 All of my projects are available at [por](por)
 
 - 📫 How to reach me **dastagirwajahat786@gmail.com**
 
-- 📄 Know about my experiences [rrr](rrr)
+- 📄 Know about my experiences [resume](resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
