@@ -1,11 +1,38 @@
 <h1 align="center">Hi 👋, I'm Dastagir Wajahat Ali Khan</h1>
 
-<h3 align="center">
-🚀 Final Year Computer Science Engineering student at Government Engineering College, Ramanagara (VTU).  
-💻 Web Development Intern at Varcons Technologies Pvt Ltd.  
-🔥 Passionate about coding, problem-solving, and building efficient web applications.  
+<h5 >
+🚀 Final Year Computer Science Engineering student at Government Engineering College, Ramanagara (VTU). </br> 
+💻 Web Development Intern at Varcons Technologies Pvt Ltd.   </br>
+🔥 Passionate about coding, problem-solving, and building efficient web applications.   </br>
 🌟 Always exploring new technologies and working on innovative projects!
-</h3>
+</h5>
+
+
+
+### 🚀 About Me  
+
+🚀 CSE Major @ GEC Ramanagara (VTU) | Web Developer | Tech Enthusiast 
+
+💡 I specialize in Web Development, with strong proficiency in Python, Java, HTML, CSS, Bootstrap, and Tkinter. I enjoy building interactive and user-friendly applications, focusing on front-end and back-end development.
+
+🔧 Currently, I’m honing my skills as a Web Development Intern at Varcons Technologies Pvt Ltd, where I work on real-world projects and sharpen my problem-solving abilities. I love exploring new frameworks and technologies to enhance my development workflow.
+
+💻 Passionate about coding, always learning, and eager to create innovative solutions! Let's connect and build something great! 🚀
+
+### 📱 Connect with Me  
+<p align="left">
+  <a href="https://twitter.com/wajahat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wajahat" height="30" width="40" />
+  </a> 
+  <a href="https://linkedin.com/in/dastagir-wajahat-316084183" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dastagir-wajahat-316084183" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/wajahat4955" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wajahat4955" height="30" width="40" />
+  </a>
+</p>
+
+
 
 ---
 
@@ -13,31 +40,6 @@
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dastagirwajahat&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-### 🚀 About Me  
-
-- 🌱 Currently learning **Advanced JavaScript, React.js & Node.js**  
-<!--- 👨‍💻 All of my projects are available [here](#) *(Replace with your portfolio link)*  -->
-- 💬 Ask me about **Python, Web Development, and Problem-Solving**  
-- 📫 How to reach me: **dastagirwajahat786@gmail.com**  
-- 📄 Check out my **[Resume](#)** *(Replace with your resume link)*  
-
----
-
-### 📱 Connect with Me  
-<p align="left">
-  <a href="https://twitter.com/wajahat" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wajahat" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/dastagir-wajahat-316084183" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dastagir-wajahat-316084183" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/wajahat4955" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wajahat4955" height="30" width="40" />
   </a>
 </p>
 
